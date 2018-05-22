@@ -1,0 +1,6 @@
+# PyCharm
+.idea/
+
+# Docker
+ml/cc/datalab
+.ipynb_checkpoints
